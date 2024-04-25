@@ -1,0 +1,14 @@
+D:\ProjectWork\Dungeon\Dungeon\bin\Debug\net8.0\Dungeon.exe
+D:\ProjectWork\Dungeon\Dungeon\bin\Debug\net8.0\Dungeon.deps.json
+D:\ProjectWork\Dungeon\Dungeon\bin\Debug\net8.0\Dungeon.runtimeconfig.json
+D:\ProjectWork\Dungeon\Dungeon\bin\Debug\net8.0\Dungeon.dll
+D:\ProjectWork\Dungeon\Dungeon\bin\Debug\net8.0\Dungeon.pdb
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.AssemblyInfoInputs.cache
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.AssemblyInfo.cs
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.csproj.CoreCompileInputs.cache
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.dll
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\refint\Dungeon.dll
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.pdb
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\Dungeon.genruntimeconfig.cache
+D:\ProjectWork\Dungeon\Dungeon\obj\Debug\net8.0\ref\Dungeon.dll
